@@ -1,0 +1,53 @@
+body {
+    margin: 0px;
+    background: #c4fbb6;
+    font-family: 'Oswald', sans-serif;
+}
+
+.header {
+    text-align: center;
+    padding: 50px;
+}
+.top {
+    width: 750px;
+    margin: auto;
+    overflow: hidden;
+    text-align: center;
+    color: white;
+    font-size: 20px;
+}
+
+.col {
+    float: left;
+    width: 33%;
+    background: #1E88E5;
+    padding: 10px 0px;
+    margin: 5px 1px;
+}
+.col4 {
+    background: #1E88E5;
+    padding: 10px 0px;
+    margin: 5px 2px;
+}
+.col5 {
+    background: #1E88E5;
+    padding: 10px 0px;
+    margin: 5px 1px;
+    float: left;
+    width: 49.6%;
+}
+.col7 {
+    background: #1E88E5;
+    width: 65%;
+    padding: 10px 0px;
+    margin: 5px 1px;
+    float: left;
+}
+
+.col8 {
+    background: #1E88E5;
+    width: 17%;
+    float: left;
+    margin: 5px 1px;
+    padding: 10px 0px;
+}
